@@ -1,2 +1,2 @@
 this is new java class - testing commiting
-This is new commit
+this is tester commit
